@@ -1,1 +1,1 @@
-# AIJung
+# AI-Jung
